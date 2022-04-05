@@ -1,5 +1,13 @@
 # react-select
 
+## 5.2.3
+
+### Patch Changes
+
+- [`0aaa9575`](https://github.com/JedWatson/react-select/commit/0aaa9575ed7e817841b9c9b494b4bd4dc2247b26) [#5134](https://github.com/JedWatson/react-select/pull/5134) Thanks [@rkulinski](https://github.com/rkulinski)! - Use defaultPrevented to skip duplicate event handler for clicking select.
+
+- [`7184d538`](https://github.com/JedWatson/react-select/commit/7184d538f587c1dd5a4ca5ad6cc0745fbb8d3809) [#5082](https://github.com/JedWatson/react-select/pull/5082) Thanks [@Methuselah96](https://github.com/Methuselah96)! - Fix type inference for Async's loadOptions prop
+
 ## 5.2.2
 
 ### Patch Changes

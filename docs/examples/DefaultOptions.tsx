@@ -30,7 +30,6 @@ export default class WithPromises extends Component<{}, State> {
   render() {
     return (
       <AsyncSelect
-        cacheOptions
         defaultOptions={colourOptions}
         loadOptions={promiseOptions}
       />
